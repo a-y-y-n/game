@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/game/static/css/main.0a77a726.css",
-    "main.js": "/game/static/js/main.b48721d5.js",
+    "main.js": "/game/static/js/main.ad94f862.js",
     "static/js/453.7a047cc1.chunk.js": "/game/static/js/453.7a047cc1.chunk.js",
     "static/media/under-the-cherry-tree.1920x1080.mp4": "/game/static/media/under-the-cherry-tree.1920x1080.76cb6ea54f09410429d9.mp4",
     "static/media/DEAGLE.glb": "/game/static/media/DEAGLE.b301dfc1a2ece9efa98a.glb",
@@ -24,6 +24,7 @@
     "static/media/gltf_embedded_0.jpeg": "/game/static/media/gltf_embedded_0.4e9d73dbe44d1dc8c047.jpeg",
     "static/media/m_m9_bayonet_Mixed_AO.png": "/game/static/media/m_m9_bayonet_Mixed_AO.67bef4ab27a6873d6490.png",
     "static/media/Sakura.png": "/game/static/media/Sakura.b92a04f7b17497b8ee38.png",
+    "static/media/toolgun.png": "/game/static/media/toolgun.ed99b2b5fec195ebccb3.png",
     "static/media/arid2_dn.jpg": "/game/static/media/arid2_dn.73cabcc86cd628919380.jpg",
     "static/media/physics gun.obj": "/game/static/media/physics gun.69343e19e91b28c4923a.obj",
     "static/media/arid2_lf.jpg": "/game/static/media/arid2_lf.a9ed0bcba69d973551d8.jpg",
@@ -31,17 +32,26 @@
     "static/media/Sakura.fbx": "/game/static/media/Sakura.7192b1e31d0c47c5d4f2.fbx",
     "static/media/arid2_ft.jpg": "/game/static/media/arid2_ft.51df2645a254664dbf09.jpg",
     "static/media/arid2_rt.jpg": "/game/static/media/arid2_rt.9a55096baff717026977.jpg",
+    "static/media/w_toolgun.obj": "/game/static/media/w_toolgun.6800529be44f7786df5d.obj",
     "static/media/arid2_up.jpg": "/game/static/media/arid2_up.ca6fe979b9394c1e99f6.jpg",
+    "static/media/toolgun3.png": "/game/static/media/toolgun3.d57b222d2f88c70d0cb3.png",
+    "static/media/toolgun2.png": "/game/static/media/toolgun2.29c1898a7953bcebbfa3.png",
     "static/media/m9_bayonet.fbx": "/game/static/media/m9_bayonet.1ed8defc89588ae54384.fbx",
     "static/media/Sakura_Opacity.png": "/game/static/media/Sakura_Opacity.c46c80eb43732ff60ff8.png",
+    "static/media/toolgun_mask.png": "/game/static/media/toolgun_mask.277851524b9b948876bb.png",
+    "static/media/toolgun2_mask.png": "/game/static/media/toolgun2_mask.540f842d164f3bcba1aa.png",
+    "static/media/toolgun3_mask.png": "/game/static/media/toolgun3_mask.99fa49bc42cf7beffe2c.png",
+    "static/media/screen_bg.png": "/game/static/media/screen_bg.caf9e402d6a6172080a6.png",
+    "static/media/toolgun3_exp.png": "/game/static/media/toolgun3_exp.4565bc94d3c963e9566f.png",
     "static/media/lasersword.fbx": "/game/static/media/lasersword.8783bfe7c01faca32de1.fbx",
     "index.html": "/game/index.html",
+    "static/media/w_toolgun.mtl": "/game/static/media/w_toolgun.2ff12c13fa5c3286db14.mtl",
     "main.0a77a726.css.map": "/game/static/css/main.0a77a726.css.map",
-    "main.b48721d5.js.map": "/game/static/js/main.b48721d5.js.map",
+    "main.ad94f862.js.map": "/game/static/js/main.ad94f862.js.map",
     "453.7a047cc1.chunk.js.map": "/game/static/js/453.7a047cc1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a77a726.css",
-    "static/js/main.b48721d5.js"
+    "static/js/main.ad94f862.js"
   ]
 }
